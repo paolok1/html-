@@ -93,6 +93,7 @@ li{
     animation-duration: 2s;
     animation-iteration-count: infinite;
     top: 90%;
+    position: fixed;
 }
 @keyframes Go-Home {
     0%{
