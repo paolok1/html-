@@ -83,6 +83,7 @@ li{
     
     display: flex;
     justify-content: right;
+    margin-right: 50px;
     
 }
 
@@ -94,6 +95,7 @@ li{
     animation-iteration-count: infinite;
     top: 90%;
     position: fixed;
+   
 }
 @keyframes Go-Home {
     0%{
